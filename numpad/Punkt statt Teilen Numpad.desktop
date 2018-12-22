@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=xmodmap -e "keycode 106 = period period period period period period XF86Ungrab"
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[de_DE]=Punkt statt Teilen Numpad
+Comment[de_DE]=. statt / nach drücken auf Numpad
+X-GNOME-Autostart-Delay=3
