@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=2 PDF in 1
+Terminal=false
+Name=PDF zusammenfügen
+Exec=python2 /home/user/.pdf.py
+Type=Application
+Icon=/home/user/pdf.jpg
