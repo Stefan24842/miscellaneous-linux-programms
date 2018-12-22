@@ -2,7 +2,7 @@
 
 A collection of small scripts/programs I wrote, usually for family members that asked for a specific functionality.
 If you want to use one of these, you have to adjust the paths in the .desktop files if you use these. The descriptions are mostly German.
-All codes are available under AGPLv3.
+All codes are available under GPLv3.
 
 ## image
 A Tkinter interface for imagemagick to make images smaller. It uses the resize and quality options with sliders in the GUI and allows JPG or PDF output.
