@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=STRG+SHIFT+S
+Terminal=false
+Name=Skontorechner
+Exec=python2 /home/user/.skonto.py
+Type=Application
+Icon=/home/user/skonto.png
