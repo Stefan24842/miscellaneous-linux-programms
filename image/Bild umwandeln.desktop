@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Bild in PDF oder JPG
+Terminal=false
+Name=Bild umwandeln
+Exec=python /home/user/.img.py
+Type=Application
+Icon=/home/user/img.jpg
