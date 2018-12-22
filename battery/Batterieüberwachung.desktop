@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/user/battery.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[de_DE]=Batterieüberwachung
+Comment[de_DE]=Meldung bei <20% Batterie
+X-GNOME-Autostart-Delay=3
